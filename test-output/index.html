@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Falcon-Sample-WIN_10_chrome_98" class="navigator-link">
+              <span class="suite-name border-passed">Falcon-Sample-WIN_10_chrome_98</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>C:\Users\srikanth.kareti\Falcon\falconWebAutomation\src\main\resources\suitefile\googlesearch.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Falcon-Sample-WIN_10_chrome_98" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">1 method,   1 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Falcon-Sample-WIN_10_chrome_98" class="hide-methods passed suite-Falcon-Sample-WIN_10_chrome_98"> (hide)</a> <!-- hide-methods passed suite-Falcon-Sample-WIN_10_chrome_98 -->
+                      <a href="#" panel-name="suite-Falcon-Sample-WIN_10_chrome_98" class="show-methods passed suite-Falcon-Sample-WIN_10_chrome_98"> (show)</a> <!-- show-methods passed suite-Falcon-Sample-WIN_10_chrome_98 -->
+                    </span>
+                    <div class="method-list-content passed suite-Falcon-Sample-WIN_10_chrome_98">
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Falcon-Sample-WIN_10_chrome_98" title="org.test.falconWebAutomation.testscript.Run_My_Colleague" class="method navigator-link" hash-for-method="run">run</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Falcon-Sample-WIN_10_chrome_98 -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Falcon-Sample-WIN_10_chrome_98" class="panel Falcon-Sample-WIN_10_chrome_98">
+          <div class="suite-Falcon-Sample-WIN_10_chrome_98-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">org.test.falconWebAutomation.testscript.Run_My_Colleague</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="run">
+                  </a> <!-- run -->
+                  <span class="method-name">run</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Falcon-Sample-WIN_10_chrome_98-class-passed -->
+        </div> <!-- panel Falcon-Sample-WIN_10_chrome_98 -->
+        <div panel-name="test-xml-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\srikanth.kareti\Falcon\falconWebAutomation\src\main\resources\suitefile\googlesearch.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Falcon-Sample-WIN_10_chrome_98&quot;&gt;
+  &lt;parameter name=&quot;os&quot; value=&quot;WIN&quot;/&gt;
+  &lt;parameter name=&quot;osVersion&quot; value=&quot;10&quot;/&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;browserVersion&quot; value=&quot;98&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;SampleTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;org.test.falconWebAutomation.testscript.Run_My_Colleague&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SampleTest --&gt;
+&lt;/suite&gt; &lt;!-- Falcon-Sample-WIN_10_chrome_98 --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Falcon-Sample-WIN_10_chrome_98</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">SampleTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Falcon-Sample-WIN_10_chrome_98</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Falcon-Sample-WIN_10_chrome_98</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Falcon-Sample-WIN_10_chrome_98');
+function tableData_Falcon-Sample-WIN_10_chrome_98() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(1);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'run')
+data.setCell(0, 2, 'org.test.falconWebAutomation.testscript.Run_My_Colleague')
+data.setCell(0, 3, 89314);
+window.suiteTableData['Falcon-Sample-WIN_10_chrome_98']= { tableData: data, tableDiv: 'times-div-Falcon-Sample-WIN_10_chrome_98'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Falcon-Sample-WIN_10_chrome_98">
+              </div> <!-- times-div-Falcon-Sample-WIN_10_chrome_98 -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Falcon-Sample-WIN_10_chrome_98</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">run</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Opening browser: chrome</span>
+                <span class="reporter-method-output">------------Opening Aspire ---------------</span>
+                <span class="reporter-method-output">Maximizing browser window</span>
+                <span class="reporter-method-output">valid credentials </span>
+                <span class="reporter-method-output">PASS : Verifying Home_Page Title : ACTUAL : Dashboard - Aspire HR Portal 	EXPECTED :Dashboard - Aspire HR Portal</span>
+                <span class="reporter-method-output">Verifying HomePage Title</span>
+                <span class="reporter-method-output">Clicking My_Colleague</span>
+                <span class="reporter-method-output">PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal 	EXPECTED :Know your colleague - Aspire HR Portal</span>
+                <span class="reporter-method-output">Verifying My_ColleaguePage Title</span>
+                <span class="reporter-method-output">PASS : Verifying aspire logo</span>
+                <span class="reporter-method-output">PASS : Verifying Emergency_contacts</span>
+                <span class="reporter-method-output">PASS : Verifying Contact_number</span>
+                <span class="reporter-method-output">PASS : Contact_number : ACTUAL : +91 40 6768 1210 	EXPECTED :+91 40 6768 1210</span>
+                <span class="reporter-method-output">PASS : Verifying hr_email</span>
+                <span class="reporter-method-output">PASS : HR_Email_Id : ACTUAL : hr.hyd@atmecs.com 	EXPECTED :hr.hyd@atmecs.com</span>
+                <span class="reporter-method-output">PASS : Verifying profile icon</span>
+                <span class="reporter-method-output">Clicking on profile icon </span>
+                <span class="reporter-method-output">PASS : Verifying my_profile_icon</span>
+                <span class="reporter-method-output">PASS : Verifying my_profile</span>
+                <span class="reporter-method-output">PASS : Verifying Logout_icon</span>
+                <span class="reporter-method-output">PASS : Verifying Logout</span>
+                <span class="reporter-method-output">PASS : Verifying Logout</span>
+                <span class="reporter-method-output">PASS : Verifying change_password_icon</span>
+                <span class="reporter-method-output">PASS : Verifying change_password</span>
+                <span class="reporter-method-output">PASS : Verifying update_Password_header</span>
+                <span class="reporter-method-output">PASS : Verifying old_Password</span>
+                <span class="reporter-method-output">PASS : Verifying new_Password</span>
+                <span class="reporter-method-output">PASS : Verifying conform_Password</span>
+                <span class="reporter-method-output">PASS : Verifying reset_Password</span>
+                <span class="reporter-method-output">PASS : Verifying Grid_View Button</span>
+                <span class="reporter-method-output">verifying Grid View Button</span>
+                <span class="reporter-method-output">PASS : Verifying List_View Button</span>
+                <span class="reporter-method-output">verifying List View Button</span>
+                <span class="reporter-method-output">PASS : Verifying SearchIcon</span>
+                <span class="reporter-method-output">verifying SearchIcon Button</span>
+                <span class="reporter-method-output">PASS : Verifying Emp Name: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying Emp Id: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying Emp Email: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying Emp designation: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying Emp project: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying Emp Reporting to : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : Verifying next button : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">Next button checked and clicked</span>
+                <span class="reporter-method-output">PASS : verifying first emp name of second page : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying second page name : ACTUAL : Chidananda H S 	EXPECTED :Chidananda H S</span>
+                <span class="reporter-method-output">verifying navigation to next page</span>
+                <span class="reporter-method-output">PASS : verifying previous button : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">Previous button checked and clicked</span>
+                <span class="reporter-method-output">PASS : verifying second page name : ACTUAL : Yohendra Raja Rasu 	EXPECTED :Yohendra Raja Rasu</span>
+                <span class="reporter-method-output">verifying navigation to previous page</span>
+                <span class="reporter-method-output">PASS : Verifying number of columns: ACTUAL : 6 	EXPECTED :6</span>
+                <span class="reporter-method-output">PASS : Verifying number of rows: ACTUAL : 1095 	EXPECTED :1095</span>
+                <span class="reporter-method-output">PASS : verifying view more link : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">Clicking view more</span>
+                <span class="reporter-method-output">PASS : verifying profile pic : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying employee details field : ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying experience_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying Current_project_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying skills_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying certifications_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying about_me_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying about_me_field: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying timeline_badge: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying date_info: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying timeline_panel: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying Team: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying Team_member_header: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS : verifying back_to_list: ACTUAL : true 	EXPECTED :true</span>
+                <span class="reporter-method-output">PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal 	EXPECTED :Know your colleague - Aspire HR Portal</span>
+                <span class="reporter-method-output">Verifying My_ColleaguePage Title</span>
+                <span class="reporter-method-output">PASS : Verifying SearchIcon</span>
+                <span class="reporter-method-output">performing click on search icon</span>
+                <span class="reporter-method-output">PASS : Verifying search content : ACTUAL : Search Results for "kareti" Back 	EXPECTED :Search Results for "kareti" Back</span>
+                <span class="reporter-method-output">PASS : Verifying search content : ACTUAL : Search Results for "1931" Back 	EXPECTED :Search Results for "1931" Back</span>
+                <span class="reporter-method-output">Logging out</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Falcon-Sample-WIN_10_chrome_98" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">org.test.falconWebAutomation.testscript.Run_My_Colleague</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">preSetup</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">run</span>
+                <span class="method-start">207 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">89526 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

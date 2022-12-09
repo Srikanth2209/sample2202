@@ -1,0 +1,165 @@
+<html>
+<head>
+<title>TestNG:  SampleTest</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>SampleTest</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>1/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Mar 25 09:51:49 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>90 seconds (90036 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='org.test.falconWebAutomation.testscript.Run_My_Colleague.run()'><b>run</b><br>Test class: org.test.falconWebAutomation.testscript.Run_My_Colleague<br/>
+<a href="#Output-1596994986" onClick='toggleBox("Output-1596994986", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1596994986" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1596994986">
+Opening browser: chrome<br/>
+------------Opening Aspire ---------------<br/>
+Maximizing browser window<br/>
+valid credentials <br/>
+PASS : Verifying Home_Page Title : ACTUAL : Dashboard - Aspire HR Portal 	EXPECTED :Dashboard - Aspire HR Portal<br/>
+Verifying HomePage Title<br/>
+Clicking My_Colleague<br/>
+PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal 	EXPECTED :Know your colleague - Aspire HR Portal<br/>
+Verifying My_ColleaguePage Title<br/>
+PASS : Verifying aspire logo<br/>
+PASS : Verifying Emergency_contacts<br/>
+PASS : Verifying Contact_number<br/>
+PASS : Contact_number : ACTUAL : +91 40 6768 1210 	EXPECTED :+91 40 6768 1210<br/>
+PASS : Verifying hr_email<br/>
+PASS : HR_Email_Id : ACTUAL : hr.hyd@atmecs.com 	EXPECTED :hr.hyd@atmecs.com<br/>
+PASS : Verifying profile icon<br/>
+Clicking on profile icon <br/>
+PASS : Verifying my_profile_icon<br/>
+PASS : Verifying my_profile<br/>
+PASS : Verifying Logout_icon<br/>
+PASS : Verifying Logout<br/>
+PASS : Verifying Logout<br/>
+PASS : Verifying change_password_icon<br/>
+PASS : Verifying change_password<br/>
+PASS : Verifying update_Password_header<br/>
+PASS : Verifying old_Password<br/>
+PASS : Verifying new_Password<br/>
+PASS : Verifying conform_Password<br/>
+PASS : Verifying reset_Password<br/>
+PASS : Verifying Grid_View Button<br/>
+verifying Grid View Button<br/>
+PASS : Verifying List_View Button<br/>
+verifying List View Button<br/>
+PASS : Verifying SearchIcon<br/>
+verifying SearchIcon Button<br/>
+PASS : Verifying Emp Name: ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying Emp Id: ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying Emp Email: ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying Emp designation: ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying Emp project: ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying Emp Reporting to : ACTUAL : true 	EXPECTED :true<br/>
+PASS : Verifying next button : ACTUAL : true 	EXPECTED :true<br/>
+Next button checked and clicked<br/>
+PASS : verifying first emp name of second page : ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying second page name : ACTUAL : Chidananda H S 	EXPECTED :Chidananda H S<br/>
+verifying navigation to next page<br/>
+PASS : verifying previous button : ACTUAL : true 	EXPECTED :true<br/>
+Previous button checked and clicked<br/>
+PASS : verifying second page name : ACTUAL : Yohendra Raja Rasu 	EXPECTED :Yohendra Raja Rasu<br/>
+verifying navigation to previous page<br/>
+PASS : Verifying number of columns: ACTUAL : 6 	EXPECTED :6<br/>
+PASS : Verifying number of rows: ACTUAL : 1095 	EXPECTED :1095<br/>
+PASS : verifying view more link : ACTUAL : true 	EXPECTED :true<br/>
+Clicking view more<br/>
+PASS : verifying profile pic : ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying employee details field : ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying experience_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying Current_project_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying skills_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying certifications_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying about_me_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying about_me_field: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying timeline_badge: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying date_info: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying timeline_panel: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying Team: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying Team_member_header: ACTUAL : true 	EXPECTED :true<br/>
+PASS : verifying back_to_list: ACTUAL : true 	EXPECTED :true<br/>
+PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal 	EXPECTED :Know your colleague - Aspire HR Portal<br/>
+Verifying My_ColleaguePage Title<br/>
+PASS : Verifying SearchIcon<br/>
+performing click on search icon<br/>
+PASS : Verifying search content : ACTUAL : Search Results for "kareti" Back 	EXPECTED :Search Results for "kareti" Back<br/>
+PASS : Verifying search content : ACTUAL : Search Results for "1931" Back 	EXPECTED :Search Results for "1931" Back<br/>
+Logging out<br/>
+</div>
+</td>
+<td></td>
+<td>89</td>
+<td>org.test.falconWebAutomation.testscript.Run_My_Colleague@7ce5c6d4</td></tr>
+</table><p>
+</body>
+</html>

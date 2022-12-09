@@ -1,0 +1,2668 @@
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-27 20:44:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2020-07-27 20:44:11 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 19:46:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_7_chrome_53 is: WIN_7_chrome_53
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 19:56:20 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 19:56:21 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:01:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:01:34 DEBUG SimpleXMLErrorHandler:40 - Fatal Error in Parsing XML Doucment. XML is not well formed: The markup declarations contained or pointed to by the document type declaration must be well-formed.
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:03:53 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:07:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:09:00 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:12:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-28 20:15:31 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:35:55 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:35:56 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmAnchorTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:43:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:53:03 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 11:55:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:02:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:03:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:05:26 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-29 12:19:44 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:14:18 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:14:19 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:16:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:21:12 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:22:46 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 13:25:42 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 14:32:56 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 14:32:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 18:31:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 18:31:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 18:33:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 18:33:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-07-31 21:25:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-07-31 21:25:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.NsmContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:00:04 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:00:05 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:02:53 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:02:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:04:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable sample is: sample
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [sample]
+
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:18:29 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus is: contactus
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus]
+
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:29:23 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2020-08-04 19:30:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:30:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:34:52 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus is: contactus
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus]
+
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:35:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable contactus,googlesearch is: contactus,googlesearch
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_84 is: WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [contactus, googlesearch]
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_84
+2020-08-04 19:36:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_84">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="84"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="com.atmecs.falcon.falcon_ui_test.testscript.AtmecsContactUsTest"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_84 -->
+
+2022-02-11 15:42:54 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable MAC_catalina_chrome_89 is: MAC_catalina_chrome_89
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-MAC_catalina_chrome_89
+2022-02-11 15:42:54 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-MAC_catalina_chrome_89">
+  <parameter name="os" value="MAC"/>
+  <parameter name="osVersion" value="catalina"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="89"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-MAC_catalina_chrome_89 -->
+
+2022-02-11 15:42:54 INFO  SlackReportListener:51 - Please enable slack integration for sending notification to slack channel. Set 'slack.enable=true' for getting test results on your slack channel
+2022-02-11 15:42:55 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2022-02-11 16:18:15 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-11 16:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-11 16:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-11 16:18:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable MAC_catalina_chrome_89 is: MAC_catalina_chrome_89
+2022-02-11 16:18:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-11 16:18:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-11 16:18:16 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-MAC_catalina_chrome_89
+2022-02-11 16:18:16 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-MAC_catalina_chrome_89">
+  <parameter name="os" value="MAC"/>
+  <parameter name="osVersion" value="catalina"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="89"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-MAC_catalina_chrome_89 -->
+
+2022-02-11 16:18:16 INFO  SlackReportListener:51 - Please enable slack integration for sending notification to slack channel. Set 'slack.enable=true' for getting test results on your slack channel
+2022-02-11 16:18:16 ERROR TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
+2022-02-11 16:19:05 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable MAC_catalina_chrome_89 is: MAC_catalina_chrome_89
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-MAC_catalina_chrome_89
+2022-02-11 16:19:05 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-MAC_catalina_chrome_89">
+  <parameter name="os" value="MAC"/>
+  <parameter name="osVersion" value="catalina"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="89"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.SampleTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-MAC_catalina_chrome_89 -->
+
+2022-02-15 10:33:49 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable MAC_catalina_chrome_89 is: MAC_catalina_chrome_89
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-MAC_catalina_chrome_89
+2022-02-15 10:33:49 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-MAC_catalina_chrome_89">
+  <parameter name="os" value="MAC"/>
+  <parameter name="osVersion" value="catalina"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="89"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-MAC_catalina_chrome_89 -->
+
+2022-02-15 10:41:58 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-15 10:41:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-15 10:41:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-15 10:41:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-15 10:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-15 10:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-15 10:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-15 10:41:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-15 10:42:46 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-15 10:42:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-15 10:42:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-15 10:42:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-15 10:42:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-15 10:42:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-15 10:42:47 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-15 10:42:47 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-15 10:58:59 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-15 10:58:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-15 11:01:56 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-15 11:01:56 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 10:20:09 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 10:20:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Amazon"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 10:30:38 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 10:30:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 10:43:44 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 10:43:44 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 11:18:15 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 11:18:15 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 11:59:09 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 11:59:09 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 12:02:08 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 12:02:08 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 12:04:31 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 12:04:31 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 12:05:40 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 12:05:40 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 12:07:06 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 12:07:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-02-28 12:10:52 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-02-28 12:10:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-02-28 12:10:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-02-28 12:10:52 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-02-28 12:10:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-02-28 12:10:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-02-28 12:10:53 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-02-28 12:10:53 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-14 15:26:19 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 15:26:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 15:26:19 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable falconDocs is: falconDocs
+2022-03-14 15:26:19 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 15:26:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 15:26:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [falconDocs]
+
+2022-03-14 15:26:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2022-03-14 15:26:20 DEBUG SlackReportListener:40 - Slack: Could not get a valid build number
+2022-03-14 15:26:20 INFO  SlackReportListener:51 - Slack: No test method executed.
+2022-03-14 15:26:25 INFO  TestNGRunner:51 - Response : {"status":"Success","message":"Upload successfully done"}
+2022-03-14 15:33:38 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable falconDocs is: falconDocs
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [falconDocs]
+
+2022-03-14 15:33:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: No Suite Found for the provided Module Name: []
+2022-03-14 15:33:38 DEBUG SlackReportListener:40 - Slack: Could not get a valid build number
+2022-03-14 15:33:38 INFO  SlackReportListener:51 - Slack: No test method executed.
+2022-03-14 15:33:39 INFO  TestNGRunner:51 - Response : {"status":"Success","message":"Upload successfully done"}
+2022-03-14 15:35:58 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-14 15:35:58 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.SampleTestScript"/>
+      <class name="org.test.falconWebAutomation.testscript.SampleJiraTestScript"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-14 15:37:28 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-14 15:37:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-14 15:41:59 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-14 15:41:59 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-14 16:20:20 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-14 16:20:20 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-14 16:26:22 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-14 16:26:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:08:38 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:08:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:15:03 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:15:03 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:19:13 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:19:13 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:20:15 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:20:15 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:37:43 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:37:43 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-15 10:46:11 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-15 10:46:11 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 10:40:44 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 10:40:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 10:40:44 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 10:40:44 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 10:40:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 10:40:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 10:40:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 10:40:45 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 10:57:11 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 10:57:11 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 11:01:34 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 11:01:34 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 11:12:28 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 11:12:28 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 11:17:10 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 11:17:10 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 11:27:51 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 11:27:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 11:27:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 11:27:51 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 11:27:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 11:27:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 11:27:52 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 11:27:52 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 11:53:04 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 11:53:04 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 16:15:57 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 16:15:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 16:29:02 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 16:29:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 16:36:23 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 16:36:23 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 16:38:45 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 16:38:45 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 16:54:06 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 16:54:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 17:00:37 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 17:00:37 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-16 17:06:02 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-16 17:06:02 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 07:25:33 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 07:25:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 07:25:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 07:25:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 07:25:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 07:25:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 07:25:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 07:25:34 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 07:44:33 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 07:44:33 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 07:50:34 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 07:50:34 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 08:12:49 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 08:12:49 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 08:16:21 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 08:16:21 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 08:16:21 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 08:16:21 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 08:16:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 08:16:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 08:16:22 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 08:16:22 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 09:43:38 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 09:43:38 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 10:13:55 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 10:13:55 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 10:40:39 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 10:40:39 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 10:45:48 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 10:45:48 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-18 17:01:49 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-18 17:01:49 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 13:58:14 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 13:58:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 13:58:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 13:58:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 13:58:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 13:58:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 13:58:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 13:58:15 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:03:14 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:03:14 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:03:14 INFO  AspireLoginInvalid:51 - Opening browser: chrome
+2022-03-21 14:03:14 DEBUG CustomListener:40 - The driver is null, Please check with driver availability: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+2022-03-21 14:03:14 DEBUG CustomListener:40 - Please ignore, if you are executing a Non-UI Project/TestCase: The driver is null, Please check with driver availability
+2022-03-21 14:03:14 INFO  SampleTestScript:51 - Jira test method
+2022-03-21 14:03:14 INFO  VerificationManager:292 - PASS : step 1 
+2022-03-21 14:03:14 INFO  VerificationManager:292 - PASS : step 2 
+2022-03-21 14:03:14 INFO  VerificationManager:292 - PASS : step 3 
+2022-03-21 14:03:14 DEBUG SlackReportListener:40 - Slack: Could not get a valid build number
+2022-03-21 14:03:15 DEBUG BasicClientConnectionManager:161 - Get connection for route {s}->https://slack.com:443
+2022-03-21 14:03:20 DEBUG DefaultClientConnectionOperator:177 - Connecting to slack.com:443
+2022-03-21 14:03:20 DEBUG RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2022-03-21 14:03:20 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2022-03-21 14:03:20 DEBUG RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2022-03-21 14:03:20 DEBUG DefaultHttpClient:682 - Attempt 1 to execute request
+2022-03-21 14:03:20 DEBUG DefaultClientConnection:274 - Sending request: POST /api/chat.postMessage HTTP/1.1
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "POST /api/chat.postMessage HTTP/1.1[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Authorization: Bearer <slack access token here>[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Accept: */*[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Content-Length: 570[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Host: slack.com[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.5 (Java/17.0.1)[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2022-03-21 14:03:20 DEBUG wire:73 -  >> "[\r][\n]"
+2022-03-21 14:03:20 DEBUG headers:278 - >> POST /api/chat.postMessage HTTP/1.1
+2022-03-21 14:03:20 DEBUG headers:281 - >> Authorization: Bearer <slack access token here>
+2022-03-21 14:03:20 DEBUG headers:281 - >> Accept: */*
+2022-03-21 14:03:20 DEBUG headers:281 - >> Content-Type: application/json; charset=UTF-8
+2022-03-21 14:03:20 DEBUG headers:281 - >> Content-Length: 570
+2022-03-21 14:03:20 DEBUG headers:281 - >> Host: slack.com
+2022-03-21 14:03:20 DEBUG headers:281 - >> Connection: Keep-Alive
+2022-03-21 14:03:20 DEBUG headers:281 - >> User-Agent: Apache-HttpClient/4.5.5 (Java/17.0.1)
+2022-03-21 14:03:20 DEBUG headers:281 - >> Accept-Encoding: gzip,deflate
+2022-03-21 14:03:20 DEBUG wire:87 -  >> "{"attachments":[{"color":"#D24957","footer":"Falcon | Automation","pretext":"Run #1 of the FalconWebDemo project has failed","text":"QA-Regression | FalconWebDemo","title":"1 test failed","fields":[{"title":"Total test cases executed: 2"},{"title":"Passed: 1"},{"title":"Failed: 1"},{"title":"Skipped: 0"}],"fallback":"Run #1 of the FalconWebDemo project has failed","actions":[{"name":"See Report Dashboard","text":"See Report Dashboard","type":"button","url":"http:\/\/10.10.10.231:8082\/#\/app\/dashboard"}],"ts":1647851594674}],"channel":"<slack channel name here>"}"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "HTTP/1.1 200 OK[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "date: Mon, 21 Mar 2022 08:33:20 GMT[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "server: Apache[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-powered-by: HHVM/4.128.0[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "access-control-allow-origin: *[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "referrer-policy: no-referrer[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-slack-backend: r[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "strict-transport-security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "access-control-allow-headers: slack-route, x-slack-version-ts, x-b3-traceid, x-b3-spanid, x-b3-parentspanid, x-b3-sampled, x-b3-flags[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "access-control-expose-headers: x-slack-req-id, retry-after[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "expires: Mon, 26 Jul 1997 05:00:00 GMT[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "cache-control: private, no-cache, no-store, must-revalidate[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "pragma: no-cache[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-robots-tag: noindex,nofollow[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-xss-protection: 0[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-slack-req-id: 40f1ce33cabee2adf643c1f8d507fe75[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "vary: Accept-Encoding[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "content-encoding: gzip[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "content-length: 55[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "content-type: application/json; charset=utf-8[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-envoy-upstream-service-time: 190[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-backend: main_normal main_bedrock_normal_with_overflow main_canary_with_overflow main_bedrock_canary_with_overflow main_control_with_overflow main_bedrock_control_with_overflow[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-server: slack-www-hhvm-main-iad-973g[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-slack-shared-secret-outcome: no-match[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "via: envoy-www-iad-kqif, envoy-edge-bom-0p1t[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-edge-backend: envoy-www[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "x-slack-edge-shared-secret-outcome: no-match[\r][\n]"
+2022-03-21 14:03:21 DEBUG wire:73 -  << "[\r][\n]"
+2022-03-21 14:03:21 DEBUG DefaultClientConnection:259 - Receiving response: HTTP/1.1 200 OK
+2022-03-21 14:03:21 DEBUG headers:262 - << HTTP/1.1 200 OK
+2022-03-21 14:03:21 DEBUG headers:265 - << date: Mon, 21 Mar 2022 08:33:20 GMT
+2022-03-21 14:03:21 DEBUG headers:265 - << server: Apache
+2022-03-21 14:03:21 DEBUG headers:265 - << x-powered-by: HHVM/4.128.0
+2022-03-21 14:03:21 DEBUG headers:265 - << access-control-allow-origin: *
+2022-03-21 14:03:21 DEBUG headers:265 - << referrer-policy: no-referrer
+2022-03-21 14:03:21 DEBUG headers:265 - << x-slack-backend: r
+2022-03-21 14:03:21 DEBUG headers:265 - << strict-transport-security: max-age=31536000; includeSubDomains; preload
+2022-03-21 14:03:21 DEBUG headers:265 - << access-control-allow-headers: slack-route, x-slack-version-ts, x-b3-traceid, x-b3-spanid, x-b3-parentspanid, x-b3-sampled, x-b3-flags
+2022-03-21 14:03:21 DEBUG headers:265 - << access-control-expose-headers: x-slack-req-id, retry-after
+2022-03-21 14:03:21 DEBUG headers:265 - << expires: Mon, 26 Jul 1997 05:00:00 GMT
+2022-03-21 14:03:21 DEBUG headers:265 - << cache-control: private, no-cache, no-store, must-revalidate
+2022-03-21 14:03:21 DEBUG headers:265 - << pragma: no-cache
+2022-03-21 14:03:21 DEBUG headers:265 - << x-robots-tag: noindex,nofollow
+2022-03-21 14:03:21 DEBUG headers:265 - << x-xss-protection: 0
+2022-03-21 14:03:21 DEBUG headers:265 - << x-content-type-options: nosniff
+2022-03-21 14:03:21 DEBUG headers:265 - << x-slack-req-id: 40f1ce33cabee2adf643c1f8d507fe75
+2022-03-21 14:03:21 DEBUG headers:265 - << vary: Accept-Encoding
+2022-03-21 14:03:21 DEBUG headers:265 - << content-encoding: gzip
+2022-03-21 14:03:21 DEBUG headers:265 - << content-length: 55
+2022-03-21 14:03:21 DEBUG headers:265 - << content-type: application/json; charset=utf-8
+2022-03-21 14:03:21 DEBUG headers:265 - << x-envoy-upstream-service-time: 190
+2022-03-21 14:03:21 DEBUG headers:265 - << x-backend: main_normal main_bedrock_normal_with_overflow main_canary_with_overflow main_bedrock_canary_with_overflow main_control_with_overflow main_bedrock_control_with_overflow
+2022-03-21 14:03:21 DEBUG headers:265 - << x-server: slack-www-hhvm-main-iad-973g
+2022-03-21 14:03:21 DEBUG headers:265 - << x-slack-shared-secret-outcome: no-match
+2022-03-21 14:03:21 DEBUG headers:265 - << via: envoy-www-iad-kqif, envoy-edge-bom-0p1t
+2022-03-21 14:03:21 DEBUG headers:265 - << x-edge-backend: envoy-www
+2022-03-21 14:03:21 DEBUG headers:265 - << x-slack-edge-shared-secret-outcome: no-match
+2022-03-21 14:03:21 DEBUG DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2022-03-21 14:03:21 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json; charset=utf-8
+2022-03-21 14:03:21 DEBUG wire:87 -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xab]V[0xca][0xcf]V[0xb2]JK[0xcc])N[0xd5]QJ-*[0xca]/R[0xb2]R[0xca][0xcc]+K[0xcc][0xc9]L[0x89]O,-[0xc9]P[0xaa][0x5][0x0][0xfc][0xf4][0xd4][0xab]#[0x0][0x0][0x0]"
+2022-03-21 14:03:21 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-03-21 14:03:21 DEBUG BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@1174358c
+2022-03-21 14:03:21 DEBUG BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+2022-03-21 14:03:21 INFO  SlackManager:51 - Authentication failed. Provide a valid slack access token
+2022-03-21 14:03:23 ERROR TestNGRunner:89 - Unknown error : : Cannot Upload the testng-results.xml Connection refused: connect
+2022-03-21 14:06:14 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:06:14 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:12:51 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:12:51 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.AspireLogin"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:13:34 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:13:34 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:13:34 INFO  AspireLoginInvalid:51 - Opening browser: chrome
+2022-03-21 14:13:34 DEBUG CustomListener:40 - The driver is null, Please check with driver availability: Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+2022-03-21 14:13:34 DEBUG CustomListener:40 - Please ignore, if you are executing a Non-UI Project/TestCase: The driver is null, Please check with driver availability
+2022-03-21 14:13:34 INFO  SampleTestScript:51 - Jira test method
+2022-03-21 14:13:34 INFO  VerificationManager:292 - PASS : step 1 
+2022-03-21 14:13:34 INFO  VerificationManager:292 - PASS : step 2 
+2022-03-21 14:13:34 INFO  VerificationManager:292 - PASS : step 3 
+2022-03-21 14:13:34 DEBUG SlackReportListener:40 - Slack: Could not get a valid build number
+2022-03-21 14:13:35 DEBUG BasicClientConnectionManager:161 - Get connection for route {s}->https://slack.com:443
+2022-03-21 14:13:35 DEBUG DefaultClientConnectionOperator:177 - Connecting to slack.com:443
+2022-03-21 14:13:36 DEBUG RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2022-03-21 14:13:36 DEBUG RequestAuthCache:77 - Auth cache not set in the context
+2022-03-21 14:13:36 DEBUG RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2022-03-21 14:13:36 DEBUG DefaultHttpClient:682 - Attempt 1 to execute request
+2022-03-21 14:13:36 DEBUG DefaultClientConnection:274 - Sending request: POST /api/chat.postMessage HTTP/1.1
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "POST /api/chat.postMessage HTTP/1.1[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Authorization: Bearer <slack access token here>[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Accept: */*[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Content-Length: 570[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Host: slack.com[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.5 (Java/17.0.1)[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  >> "[\r][\n]"
+2022-03-21 14:13:36 DEBUG headers:278 - >> POST /api/chat.postMessage HTTP/1.1
+2022-03-21 14:13:36 DEBUG headers:281 - >> Authorization: Bearer <slack access token here>
+2022-03-21 14:13:36 DEBUG headers:281 - >> Accept: */*
+2022-03-21 14:13:36 DEBUG headers:281 - >> Content-Type: application/json; charset=UTF-8
+2022-03-21 14:13:36 DEBUG headers:281 - >> Content-Length: 570
+2022-03-21 14:13:36 DEBUG headers:281 - >> Host: slack.com
+2022-03-21 14:13:36 DEBUG headers:281 - >> Connection: Keep-Alive
+2022-03-21 14:13:36 DEBUG headers:281 - >> User-Agent: Apache-HttpClient/4.5.5 (Java/17.0.1)
+2022-03-21 14:13:36 DEBUG headers:281 - >> Accept-Encoding: gzip,deflate
+2022-03-21 14:13:36 DEBUG wire:87 -  >> "{"attachments":[{"color":"#D24957","footer":"Falcon | Automation","pretext":"Run #1 of the FalconWebDemo project has failed","text":"QA-Regression | FalconWebDemo","title":"1 test failed","fields":[{"title":"Total test cases executed: 2"},{"title":"Passed: 1"},{"title":"Failed: 1"},{"title":"Skipped: 0"}],"fallback":"Run #1 of the FalconWebDemo project has failed","actions":[{"name":"See Report Dashboard","text":"See Report Dashboard","type":"button","url":"http:\/\/10.10.10.231:8082\/#\/app\/dashboard"}],"ts":1647852214504}],"channel":"<slack channel name here>"}"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "HTTP/1.1 200 OK[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "date: Mon, 21 Mar 2022 08:43:36 GMT[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "server: Apache[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-powered-by: HHVM/4.128.0[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "access-control-allow-origin: *[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "referrer-policy: no-referrer[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-slack-backend: r[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "strict-transport-security: max-age=31536000; includeSubDomains; preload[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "access-control-allow-headers: slack-route, x-slack-version-ts, x-b3-traceid, x-b3-spanid, x-b3-parentspanid, x-b3-sampled, x-b3-flags[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "access-control-expose-headers: x-slack-req-id, retry-after[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "expires: Mon, 26 Jul 1997 05:00:00 GMT[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "cache-control: private, no-cache, no-store, must-revalidate[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "pragma: no-cache[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-robots-tag: noindex,nofollow[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-xss-protection: 0[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-content-type-options: nosniff[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-slack-req-id: 54e45936769f6b898bd03d70673050e9[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "vary: Accept-Encoding[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "content-encoding: gzip[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "content-length: 55[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "content-type: application/json; charset=utf-8[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-envoy-upstream-service-time: 187[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-backend: main_normal main_bedrock_normal_with_overflow main_canary_with_overflow main_bedrock_canary_with_overflow main_control_with_overflow main_bedrock_control_with_overflow[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-server: slack-www-hhvm-main-iad-2k6t[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-slack-shared-secret-outcome: no-match[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "via: envoy-www-iad-cnx2, envoy-edge-canary-bom-nfs4[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-edge-backend: envoy-www[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "x-slack-edge-shared-secret-outcome: no-match[\r][\n]"
+2022-03-21 14:13:36 DEBUG wire:73 -  << "[\r][\n]"
+2022-03-21 14:13:36 DEBUG DefaultClientConnection:259 - Receiving response: HTTP/1.1 200 OK
+2022-03-21 14:13:36 DEBUG headers:262 - << HTTP/1.1 200 OK
+2022-03-21 14:13:36 DEBUG headers:265 - << date: Mon, 21 Mar 2022 08:43:36 GMT
+2022-03-21 14:13:36 DEBUG headers:265 - << server: Apache
+2022-03-21 14:13:36 DEBUG headers:265 - << x-powered-by: HHVM/4.128.0
+2022-03-21 14:13:36 DEBUG headers:265 - << access-control-allow-origin: *
+2022-03-21 14:13:36 DEBUG headers:265 - << referrer-policy: no-referrer
+2022-03-21 14:13:36 DEBUG headers:265 - << x-slack-backend: r
+2022-03-21 14:13:36 DEBUG headers:265 - << strict-transport-security: max-age=31536000; includeSubDomains; preload
+2022-03-21 14:13:36 DEBUG headers:265 - << access-control-allow-headers: slack-route, x-slack-version-ts, x-b3-traceid, x-b3-spanid, x-b3-parentspanid, x-b3-sampled, x-b3-flags
+2022-03-21 14:13:36 DEBUG headers:265 - << access-control-expose-headers: x-slack-req-id, retry-after
+2022-03-21 14:13:36 DEBUG headers:265 - << expires: Mon, 26 Jul 1997 05:00:00 GMT
+2022-03-21 14:13:36 DEBUG headers:265 - << cache-control: private, no-cache, no-store, must-revalidate
+2022-03-21 14:13:36 DEBUG headers:265 - << pragma: no-cache
+2022-03-21 14:13:36 DEBUG headers:265 - << x-robots-tag: noindex,nofollow
+2022-03-21 14:13:36 DEBUG headers:265 - << x-xss-protection: 0
+2022-03-21 14:13:36 DEBUG headers:265 - << x-content-type-options: nosniff
+2022-03-21 14:13:36 DEBUG headers:265 - << x-slack-req-id: 54e45936769f6b898bd03d70673050e9
+2022-03-21 14:13:36 DEBUG headers:265 - << vary: Accept-Encoding
+2022-03-21 14:13:36 DEBUG headers:265 - << content-encoding: gzip
+2022-03-21 14:13:36 DEBUG headers:265 - << content-length: 55
+2022-03-21 14:13:36 DEBUG headers:265 - << content-type: application/json; charset=utf-8
+2022-03-21 14:13:36 DEBUG headers:265 - << x-envoy-upstream-service-time: 187
+2022-03-21 14:13:36 DEBUG headers:265 - << x-backend: main_normal main_bedrock_normal_with_overflow main_canary_with_overflow main_bedrock_canary_with_overflow main_control_with_overflow main_bedrock_control_with_overflow
+2022-03-21 14:13:36 DEBUG headers:265 - << x-server: slack-www-hhvm-main-iad-2k6t
+2022-03-21 14:13:36 DEBUG headers:265 - << x-slack-shared-secret-outcome: no-match
+2022-03-21 14:13:36 DEBUG headers:265 - << via: envoy-www-iad-cnx2, envoy-edge-canary-bom-nfs4
+2022-03-21 14:13:36 DEBUG headers:265 - << x-edge-backend: envoy-www
+2022-03-21 14:13:36 DEBUG headers:265 - << x-slack-edge-shared-secret-outcome: no-match
+2022-03-21 14:13:36 DEBUG DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2022-03-21 14:13:36 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:545 - Parsing response as: application/json; charset=utf-8
+2022-03-21 14:13:36 DEBUG wire:87 -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xab]V[0xca][0xcf]V[0xb2]JK[0xcc])N[0xd5]QJ-*[0xca]/R[0xb2]R[0xca][0xcc]+K[0xcc][0xc9]L[0x89]O,-[0xc9]P[0xaa][0x5][0x0][0xfc][0xf4][0xd4][0xab]#[0x0][0x0][0x0]"
+2022-03-21 14:13:36 DEBUG RequestSpecificationImpl$RestAssuredHttpBuilder:548 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2022-03-21 14:13:36 DEBUG BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@30480a1c
+2022-03-21 14:13:36 DEBUG BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+2022-03-21 14:13:36 INFO  SlackManager:51 - Authentication failed. Provide a valid slack access token
+2022-03-21 14:13:39 ERROR TestNGRunner:89 - Unknown error : : Cannot Upload the testng-results.xml Connection refused: connect
+2022-03-21 14:24:11 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:24:11 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:28:31 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:28:31 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:32:15 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:32:15 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:36:56 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:36:57 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:40:45 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:40:46 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:46:06 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:46:06 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:49:12 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:49:12 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 14:57:40 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 14:57:41 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-21 15:00:39 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-21 15:00:39 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-22 10:05:07 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-22 10:05:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-22 10:08:33 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-22 10:08:33 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-22 10:17:17 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-22 10:17:17 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-22 10:21:07 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-22 10:21:07 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-22 19:18:23 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-22 19:18:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-22 19:18:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-22 19:18:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-22 19:18:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-22 19:18:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-22 19:18:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-22 19:18:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-25 09:41:23 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-25 09:41:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-25 09:41:23 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-25 09:41:23 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-25 09:41:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-25 09:41:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-25 09:41:24 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-25 09:41:24 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-25 09:43:30 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-25 09:43:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-25 09:43:30 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-25 09:43:30 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-25 09:43:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-25 09:43:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-25 09:43:31 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-25 09:43:31 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+
+2022-03-25 09:51:49 INFO  TestNGRunner:51 - Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment variable Falcon is: Falcon
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: The value found with Environment Module variable googlesearch is: googlesearch
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Clients Found: [Falcon]
+
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: Modules Selected: [googlesearch]
+
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98
+2022-03-25 09:51:49 INFO  TestNGEngineForDesiredSuites:51 - <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+

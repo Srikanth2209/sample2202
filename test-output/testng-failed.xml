@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Falcon-Sample-WIN_10_chrome_98]">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest(failed)">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague">
+        <methods>
+          <include name="teardown"/>
+          <include name="preSetup"/>
+          <include name="run"/>
+        </methods>
+      </class> <!-- org.test.falconWebAutomation.testscript.Run_My_Colleague -->
+    </classes>
+  </test> <!-- SampleTest(failed) -->
+</suite> <!-- Failed suite [Falcon-Sample-WIN_10_chrome_98] -->

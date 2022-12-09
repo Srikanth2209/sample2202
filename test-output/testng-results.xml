@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Results are not uploading to JIRA. If you want to upload please set value of key 'jira.testresults' to 'true' in config.properties]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment variable Falcon is: Falcon]]>
+    </line>
+    <line>
+      <![CDATA[INFO: The value found with Environment Module variable googlesearch is: googlesearch]]>
+    </line>
+    <line>
+      <![CDATA[The value found with Environment variable WIN_10_chrome_98 is: WIN_10_chrome_98]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Clients Found: [Falcon]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: Modules Selected: [googlesearch]
+]]>
+    </line>
+    <line>
+      <![CDATA[INFO: New Suite Created with name: Falcon-Sample-WIN_10_chrome_98]]>
+    </line>
+    <line>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Falcon-Sample-WIN_10_chrome_98">
+  <parameter name="os" value="WIN"/>
+  <parameter name="osVersion" value="10"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browserVersion" value="98"/>
+  <test thread-count="5" name="SampleTest">
+    <classes>
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+    </classes>
+  </test> <!-- SampleTest -->
+</suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+]]>
+    </line>
+    <line>
+      <![CDATA[Opening browser: chrome]]>
+    </line>
+    <line>
+      <![CDATA[------------Opening Aspire ---------------]]>
+    </line>
+    <line>
+      <![CDATA[Maximizing browser window]]>
+    </line>
+    <line>
+      <![CDATA[valid credentials ]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Home_Page Title : ACTUAL : Dashboard - Aspire HR Portal EXPECTED :Dashboard - Aspire HR Portal]]>
+    </line>
+    <line>
+      <![CDATA[Verifying HomePage Title]]>
+    </line>
+    <line>
+      <![CDATA[Clicking My_Colleague]]>
+    </line>
+    <line>
+      <![CDATA[PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal EXPECTED :Know your colleague - Aspire HR Portal]]>
+    </line>
+    <line>
+      <![CDATA[Verifying My_ColleaguePage Title]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying aspire logo]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emergency_contacts]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Contact_number]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Contact_number : ACTUAL : +91 40 6768 1210 EXPECTED :+91 40 6768 1210]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying hr_email]]>
+    </line>
+    <line>
+      <![CDATA[PASS : HR_Email_Id : ACTUAL : hr.hyd@atmecs.com EXPECTED :hr.hyd@atmecs.com]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying profile icon]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on profile icon ]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying my_profile_icon]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying my_profile]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Logout_icon]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Logout]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Logout]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying change_password_icon]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying change_password]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying update_Password_header]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying old_Password]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying new_Password]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying conform_Password]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying reset_Password]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Grid_View Button]]>
+    </line>
+    <line>
+      <![CDATA[verifying Grid View Button]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying List_View Button]]>
+    </line>
+    <line>
+      <![CDATA[verifying List View Button]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying SearchIcon]]>
+    </line>
+    <line>
+      <![CDATA[verifying SearchIcon Button]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp Name: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp Id: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp Email: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp designation: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp project: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying Emp Reporting to : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying next button : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[Next button checked and clicked]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying first emp name of second page : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying second page name : ACTUAL : Chidananda H S EXPECTED :Chidananda H S]]>
+    </line>
+    <line>
+      <![CDATA[verifying navigation to next page]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying previous button : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[Previous button checked and clicked]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying second page name : ACTUAL : Yohendra Raja Rasu EXPECTED :Yohendra Raja Rasu]]>
+    </line>
+    <line>
+      <![CDATA[verifying navigation to previous page]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying number of columns: ACTUAL : 6 EXPECTED :6]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying number of rows: ACTUAL : 1095 EXPECTED :1095]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying view more link : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[Clicking view more]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying profile pic : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying employee details field : ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying experience_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying Current_project_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying skills_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying certifications_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying about_me_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying about_me_field: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying timeline_badge: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying date_info: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying timeline_panel: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying Team: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying Team_member_header: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS : verifying back_to_list: ACTUAL : true EXPECTED :true]]>
+    </line>
+    <line>
+      <![CDATA[PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal EXPECTED :Know your colleague - Aspire HR Portal]]>
+    </line>
+    <line>
+      <![CDATA[Verifying My_ColleaguePage Title]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying SearchIcon]]>
+    </line>
+    <line>
+      <![CDATA[performing click on search icon]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying search content : ACTUAL : Search Results for "kareti" Back EXPECTED :Search Results for "kareti" Back]]>
+    </line>
+    <line>
+      <![CDATA[PASS : Verifying search content : ACTUAL : Search Results for "1931" Back EXPECTED :Search Results for "1931" Back]]>
+    </line>
+    <line>
+      <![CDATA[Logging out]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-25T04:21:49Z" name="Falcon-Sample-WIN_10_chrome_98" finished-at="2022-03-25T04:23:19Z" duration-ms="90036">
+    <groups>
+    </groups>
+    <test started-at="2022-03-25T04:21:49Z" name="SampleTest" finished-at="2022-03-25T04:23:19Z" duration-ms="90036">
+      <class name="org.test.falconWebAutomation.testscript.Run_My_Colleague">
+        <test-method is-config="true" signature="preSetup()[pri:0, instance:org.test.falconWebAutomation.testscript.Run_My_Colleague@7ce5c6d4]" started-at="2022-03-25T04:21:49Z" name="preSetup" finished-at="2022-03-25T04:21:50Z" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method signature="run()[pri:0, instance:org.test.falconWebAutomation.testscript.Run_My_Colleague@7ce5c6d4]" started-at="2022-03-25T04:21:50Z" name="run" finished-at="2022-03-25T04:23:19Z" duration-ms="89314" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Opening browser: chrome]]>
+            </line>
+            <line>
+              <![CDATA[------------Opening Aspire ---------------]]>
+            </line>
+            <line>
+              <![CDATA[Maximizing browser window]]>
+            </line>
+            <line>
+              <![CDATA[valid credentials ]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Home_Page Title : ACTUAL : Dashboard - Aspire HR Portal EXPECTED :Dashboard - Aspire HR Portal]]>
+            </line>
+            <line>
+              <![CDATA[Verifying HomePage Title]]>
+            </line>
+            <line>
+              <![CDATA[Clicking My_Colleague]]>
+            </line>
+            <line>
+              <![CDATA[PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal EXPECTED :Know your colleague - Aspire HR Portal]]>
+            </line>
+            <line>
+              <![CDATA[Verifying My_ColleaguePage Title]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying aspire logo]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emergency_contacts]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Contact_number]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Contact_number : ACTUAL : +91 40 6768 1210 EXPECTED :+91 40 6768 1210]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying hr_email]]>
+            </line>
+            <line>
+              <![CDATA[PASS : HR_Email_Id : ACTUAL : hr.hyd@atmecs.com EXPECTED :hr.hyd@atmecs.com]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying profile icon]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on profile icon ]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying my_profile_icon]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying my_profile]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Logout_icon]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Logout]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Logout]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying change_password_icon]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying change_password]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying update_Password_header]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying old_Password]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying new_Password]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying conform_Password]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying reset_Password]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Grid_View Button]]>
+            </line>
+            <line>
+              <![CDATA[verifying Grid View Button]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying List_View Button]]>
+            </line>
+            <line>
+              <![CDATA[verifying List View Button]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying SearchIcon]]>
+            </line>
+            <line>
+              <![CDATA[verifying SearchIcon Button]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp Name: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp Id: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp Email: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp designation: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp project: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying Emp Reporting to : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying next button : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[Next button checked and clicked]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying first emp name of second page : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying second page name : ACTUAL : Chidananda H S EXPECTED :Chidananda H S]]>
+            </line>
+            <line>
+              <![CDATA[verifying navigation to next page]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying previous button : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[Previous button checked and clicked]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying second page name : ACTUAL : Yohendra Raja Rasu EXPECTED :Yohendra Raja Rasu]]>
+            </line>
+            <line>
+              <![CDATA[verifying navigation to previous page]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying number of columns: ACTUAL : 6 EXPECTED :6]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying number of rows: ACTUAL : 1095 EXPECTED :1095]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying view more link : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[Clicking view more]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying profile pic : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying employee details field : ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying experience_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying Current_project_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying skills_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying certifications_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying about_me_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying about_me_field: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying timeline_badge: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying date_info: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying timeline_panel: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying Team: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying Team_member_header: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS : verifying back_to_list: ACTUAL : true EXPECTED :true]]>
+            </line>
+            <line>
+              <![CDATA[PASS :  My_Colleague_Page_Title : ACTUAL : Know your colleague - Aspire HR Portal EXPECTED :Know your colleague - Aspire HR Portal]]>
+            </line>
+            <line>
+              <![CDATA[Verifying My_ColleaguePage Title]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying SearchIcon]]>
+            </line>
+            <line>
+              <![CDATA[performing click on search icon]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying search content : ACTUAL : Search Results for "kareti" Back EXPECTED :Search Results for "kareti" Back]]>
+            </line>
+            <line>
+              <![CDATA[PASS : Verifying search content : ACTUAL : Search Results for "1931" Back EXPECTED :Search Results for "1931" Back]]>
+            </line>
+            <line>
+              <![CDATA[Logging out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.test.falconWebAutomation.testscript.Run_My_Colleague@7ce5c6d4]" started-at="2022-03-25T04:23:19Z" name="teardown" finished-at="2022-03-25T04:23:19Z" duration-ms="492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- org.test.falconWebAutomation.testscript.Run_My_Colleague -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- Falcon-Sample-WIN_10_chrome_98 -->
+</testng-results>

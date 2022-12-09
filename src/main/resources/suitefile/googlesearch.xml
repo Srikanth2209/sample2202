@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Suite File -->
+
+<suite name="Sample">
+
+	<test name="SampleTest">
+		<classes>
+			<!--<class name="org.test.falconWebAutomation.testscript.SampleTestScript" />
+			 <class name="org.test.falconWebAutomation.testscript.SampleJiraTestScript" />
+			<class name = "org.test.falconWebAutomation.testscript.Falcon_Docs"/>
+			<class name = "org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+			<class name = "org.test.falconWebAutomation.testscript.AspireLogin"/>-->
+			<class name = "org.test.falconWebAutomation.testscript.Run_My_Colleague"/>
+
+		</classes>
+	</test>
+
+</suite>
+
